@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: my-app-container
-          image: acrforakscontain.azurecr.io/linux-app:latest
+          image: acrforaks001.azurecr.io/linux-app:latest
